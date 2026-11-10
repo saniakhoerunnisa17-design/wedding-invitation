@@ -15,7 +15,7 @@ wedding-invitation/
 │   │   ├── couple-cover.jpg       # unggah foto utama pasangan
 │   │   ├── adi.jpg                # unggah foto Adi
 │   │   ├── anita.jpg              # unggah foto Anita
-│   │   └── gallery-1.jpg ... gallery-5.jpg
+│   │   └── gallery-1.jpg ... gallery-12.jpg
 │   └── music/
 │       └── wedding-music.mp3      # MP3 milik pemilik undangan
 └── google-apps-script/
@@ -26,7 +26,7 @@ wedding-invitation/
 
 - `assets/images/couple-cover.jpg`: foto utama untuk cover dan hero.
 - `assets/images/adi.jpg` dan `assets/images/anita.jpg`: foto profil masing-masing.
-- `assets/images/gallery-1.jpg` sampai `gallery-5.jpg`: 5 foto galeri (tambahkan hingga 9 melalui `config.js`).
+- `assets/images/gallery-1.jpg` sampai `gallery-12.jpg`: 12 foto galeri (tambahkan hingga 9 melalui `config.js`).
 - `assets/music/wedding-music.mp3`: musik latar. Musik hanya dimulai setelah tombol **BUKA UNDANGAN** ditekan.
 - URL Web App Apps Script sudah dipasang pada `config.js` (deployment yang diberikan pemilik).
 - Nomor WhatsApp keluarga (opsional) pada `config.js`. Jika belum diisi, tombol WhatsApp membuka pilihan berbagi tanpa nomor tujuan.
