@@ -79,7 +79,7 @@
 
   // Profil foto menggunakan fallback placeholder sampai foto asli diunggah.
   ["adi.jpg","anita.jpg"].forEach((name) => {});
-  const gallery = cfg.gallery.slice(0, 9);
+  const gallery = cfg.gallery.slice(0, 12);
   let currentPhoto = 0;
   const grid = $("galleryGrid");
   gallery.forEach((src, index) => {
