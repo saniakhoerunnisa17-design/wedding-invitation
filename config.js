@@ -22,7 +22,7 @@ window.WEDDING_CONFIG = {
     mapsUrl: "https://maps.app.goo.gl/HePrug4atrppLJDU6"
   },
   backendUrl: "https://script.google.com/macros/s/AKfycbyoVxR_nBiyUmThvgZjB8fscC78yL8MRaQiSrCX_Jw0oogxUP0yxucP_ufTyLhWptuV9g/exec", // Web App Google Apps Script milik Adi & Anita.
-  whatsappNumber: "", // Format internasional tanpa +, contoh 62812xxxx (jangan gunakan nomor fiktif).
+  whatsappNumber: "6283863956981", // Format internasional tanpa +, contoh 62812xxxx (jangan gunakan nomor fiktif).
   musicFile: "assets/music/wedding-music.mp3",
   gallery: [
     "assets/images/gallery-1.jpg",
