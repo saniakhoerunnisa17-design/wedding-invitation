@@ -11,7 +11,7 @@ window.WEDDING_CONFIG = {
     parents: "Putri dari Bapak Wawan (Alm.) dan Ibu Heni",
     photo: "assets/images/anita.jpg"
   },
-  couplePhoto: "assets/images/gallery-6.jpg",
+  couplePhoto: "assets/images/couple-cover.jpg",
   event: {
     dateLabel: "Sabtu, 28 November 2026",
     startISO: "2026-11-28T09:00:00+07:00",
